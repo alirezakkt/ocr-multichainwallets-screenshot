@@ -28,3 +28,4 @@ pip install opencv-python pytesseract pillow mnemonic web3 bip-utils requests co
 Run the script:
 
 python seed.py
+![Screenshot 2025-02-18 at 12 25 55](https://github.com/user-attachments/assets/7ad33412-a74b-46fc-900a-fe093082d6ae)
